@@ -20,8 +20,8 @@ Primary sources checked: Google Places sheet row 3, Studio24 rendered profile, G
 
 - Google Maps reviews manually inspected via browser using the reviews route. Three written Google reviews were visible and used exactly as shown in the public UI:
   - Yolanda Acevedo: “Very recommend it, will visit again”
-  - Vanya Stamenova: “The girls are great! Top professionals! Nice and cozy atmosphere, everyone is very kind and always attentive to the customer!”
-  - Mariyana Ivanova: “I am very satisfied, professional attitude and great work with my hair!”
+  - Vanya Stamenova: “Супер са момичетата! Топ професионалисти! Приятна и уютна атмосфера, всички са много любезни и винаги с внимание към клиента!”
+  - Mariyana Ivanova: “Много съм доволна, професионално отношение и чудесна работа с косата ми!”
 - Studio24 page was also inspected. It shows rating/name entries, but most visible entries have no written text; these are not used as testimonial substitutes.
 - Studio24/search snippets expose one review phrase: “Ива е страхотна! Препоръчвам услугите ѝ с две ръце!...” but no public reviewer name in accessible sources, so it is not used as a named testimonial.
 - Site uses only the three written Google Maps reviews for testimonial cards. No rating-only testimonial cards.
