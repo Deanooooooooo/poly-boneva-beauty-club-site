@@ -18,10 +18,13 @@ Primary sources checked: Google Places sheet row 3, Studio24 rendered profile, G
 
 ## Reviews/testimonials
 
-- Google Maps public UI was checked but exposed only a limited unauthenticated view without review text.
-- Studio24 page was manually inspected via browser. The visible review feed exposes real reviewer names and 5-star ratings; most visible entries have no written text. Verified 5-star names include Катя, Радослав, Цветелина, Kristiana, Стелияна, Михаела, Мария, Антон, Анета.
+- Google Maps reviews manually inspected via browser using the reviews route. Three written Google reviews were visible and used exactly as shown in the public UI:
+  - Yolanda Acevedo: “Very recommend it, will visit again”
+  - Vanya Stamenova: “The girls are great! Top professionals! Nice and cozy atmosphere, everyone is very kind and always attentive to the customer!”
+  - Mariyana Ivanova: “I am very satisfied, professional attitude and great work with my hair!”
+- Studio24 page was also inspected. It shows rating/name entries, but most visible entries have no written text; these are not used as testimonial substitutes.
 - Studio24/search snippets expose one review phrase: “Ива е страхотна! Препоръчвам услугите ѝ с две ръце!...” but no public reviewer name in accessible sources, so it is not used as a named testimonial.
-- Site uses a clearly labeled public-rating proof section with real names and verified 5-star Studio24 ratings, not fabricated quote cards. `[blocked: full written testimonial text unavailable for named reviewers]`
+- Site uses only the three written Google Maps reviews for testimonial cards. No rating-only testimonial cards.
 
 ## Images and placements
 
