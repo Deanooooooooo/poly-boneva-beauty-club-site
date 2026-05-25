@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deanooooooooo.github.io/poly-boneva-beauty-club-site/sitemap.xml
