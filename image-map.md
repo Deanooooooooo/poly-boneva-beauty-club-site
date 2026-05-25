@@ -19,8 +19,9 @@ Primary sources checked: Google Places sheet row 3, Studio24 rendered profile, G
 ## Reviews/testimonials
 
 - Google Maps public UI was checked but exposed only a limited unauthenticated view without review text.
-- Studio24/search snippets expose one review phrase: “Ива е страхотна! Препоръчвам услугите ѝ с две ръце!...” but no public reviewer name in accessible sources.
-- No testimonial cards used because real reviewer names/text could not be verified. Site uses public profile/reviews CTA only. `[blocked: Google/Studio24 reviewer names unavailable]`
+- Studio24 page was manually inspected via browser. The visible review feed exposes real reviewer names and 5-star ratings; most visible entries have no written text. Verified 5-star names include Катя, Радослав, Цветелина, Kristiana, Стелияна, Михаела, Мария, Антон, Анета.
+- Studio24/search snippets expose one review phrase: “Ива е страхотна! Препоръчвам услугите ѝ с две ръце!...” but no public reviewer name in accessible sources, so it is not used as a named testimonial.
+- Site uses a clearly labeled public-rating proof section with real names and verified 5-star Studio24 ratings, not fabricated quote cards. `[blocked: full written testimonial text unavailable for named reviewers]`
 
 ## Images and placements
 
