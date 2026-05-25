@@ -2,7 +2,7 @@
 
 Source business: Poly Boneva Beauty Club  
 Profession: beauty / hair / nails salon  
-Primary sources checked: Google Places sheet row 3, Studio24 rendered profile, Google Maps public UI, Brave search snippets, Facebook/Instagram search results.
+Primary sources checked: Google Places sheet row 3, Studio24 rendered profile, Google Maps public UI, Brave search snippets, Facebook page/photos, Instagram profile/grid.
 
 ## Verified business facts
 
@@ -28,11 +28,47 @@ Primary sources checked: Google Places sheet row 3, Studio24 rendered profile, G
 
 ## Images and placements
 
+### ig-result-6.jpg
+- Source: public Instagram grid; caption references Air Touch technique.
+- Subject: blonde Air Touch / soft transition hair result, salon setting.
+- Scores: realness 5, sharpness 4, crop safety 4, aspect fit 5, relevance 5, uniqueness 5.
+- Placement: hero primary image and largest results-card. Best immediate conversion image because it shows the finished hair result, not just the room.
+
+### fb-result-curls-smile.jpg
+- Source: public Facebook photos.
+- Subject: smiling client with styled curls.
+- Scores: realness 5, sharpness 3, crop safety 4, aspect fit 4, relevance 5, uniqueness 5.
+- Placement: results gallery; human/client-facing proof.
+
+### fb-result-balayage-waves.jpg
+- Source: public Facebook photos.
+- Subject: brunette balayage/waves back view.
+- Scores: realness 5, sharpness 3, crop safety 5, aspect fit 4, relevance 5, uniqueness 5.
+- Placement: results gallery; color/waves capability proof.
+
+### fb-result-copper-waves.jpg
+- Source: public Facebook photos.
+- Subject: copper-toned waves back view.
+- Scores: realness 5, sharpness 3, crop safety 5, aspect fit 4, relevance 5, uniqueness 5.
+- Placement: results gallery; varied color result.
+
+### ig-result-2.jpg
+- Source: public Instagram grid; caption references blonde transformation.
+- Subject: blonde color/cut result.
+- Scores: realness 5, sharpness 4, crop safety 4, aspect fit 4, relevance 5, uniqueness 4.
+- Placement: results gallery; blonde result with salon context.
+
+### ig-result-3.jpg
+- Source: public Instagram grid; caption references cut/care by Яна.
+- Subject: healthy shiny hair / cut result.
+- Scores: realness 5, sharpness 3, crop safety 4, aspect fit 4, relevance 5, uniqueness 4.
+- Placement: hair service card, replacing generic wash-station image.
+
 ### studio24-124080.jpg
 - Subject: wide salon interior with styling chair, mirrors, window, wash area.
 - Aspect: landscape 848×629.
 - Scores: realness 5, sharpness 4, crop safety 4, aspect fit 5, relevance 5, uniqueness 5.
-- Placement: hero primary image. Crop around central chair/mirror; avoid overemphasizing reversed logo.
+- Placement: available interior/supporting image; no longer hero because visual-result businesses should lead with finished work.
 
 ### studio24-124081.jpg
 - Subject: manicure/nail desk with orchid, lamps, nail equipment.
@@ -72,10 +108,10 @@ Primary sources checked: Google Places sheet row 3, Studio24 rendered profile, G
 
 ## Designed media system
 
-Use all 7 images in a controlled visual story:
-1. Hero: `124080` wide landscape.
-2. About/identity: `124082` paired with text.
-3. Services media cards: `12447` hair/wash, `124081` manicure, `12451` pedicure.
-4. Studio gallery: `12444` large overview + `12446` supporting detail.
+Use images in a controlled conversion story:
+1. Hero: `ig-result-6` because hair/beauty customers need to see a finished result immediately.
+2. Results gallery near the top, before services: `ig-result-6`, `fb-result-curls-smile`, `fb-result-balayage-waves`, `fb-result-copper-waves`, `ig-result-2`.
+3. Services media cards: `ig-result-3` for hair, `124081` manicure, `12451` pedicure.
+4. Studio/about trust later: `124082`, `12444`, `12446` show the real salon/workspace after results have done the selling.
 
-No random collage. Keep matching radii/gutters, fixed aspect ratios, captions, and mobile single-column rhythm.
+No random collage. Result photos are deliberately placed before service/booking proof; workspace photos support comfort/location later. Keep matching radii/gutters, fixed aspect ratios, captions, and mobile single-column rhythm.
